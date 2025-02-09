@@ -1,4 +1,4 @@
-# Personal AI/ML tools for model inspection
+# AI/ML tools for model inspection
 
 
 ### llama.cpp/src/llama.cpp
